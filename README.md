@@ -1,5 +1,11 @@
 # History-100s
 
+## Projects:
+- [Justin Germain](https://github.com/justin-germain/text-analysis)
+- [Gabija Safranavicius and Alvin Ghouas](https://github.com/gabisafra/evolution-of-modern-hip-hop)
+- [Jiayi Huang, Arvind Iyengar, and Parth Singhal](https://github.com/huangjiayi0922/Projects)
+- [Leon Liang and Laura Nelson](https://github.com/lknelson/encoding-lesson)
+
 The D-Lab at UC Berkeley is proud to feature a compilation of computational analysis projects taken from Laura K. Nelson’s interdisciplinary course, History 100S: Text Analysis for Digital Humanists and Social Scientists. Professor Nelson was a 2016-2017 Postdoctoral Fellow at the Berkeley Institute for Data Science and the Digital Humanities @ Berkeley. During her fellowship, she developed and taught a course to introduce cutting edge computational text analysis techniques to a diverse cohort of undergraduates, graduate students, and professors from various departments and disciplines. Throughout the semester, students learned about the following methods, and how to implement them using Python and Jupyter: structuring and preprocessing text, dictionary methods, supervised and unsupervised machine learning, word scores and word weighting, grammar-parsing and concordances, working with metadata, and crowd-based content analysis. These skills were taught in an applied fashion, with an emphasis on how these techniques can help us answer long-standing questions in the social sciences and humanities, and how they open up the possibility to ask and answer new types of questions. Students then applied these methods to their own original projects in the form of a Jupyter notebook, some of which are presented in the upcoming blog posts.
 
 By presenting these projects we hope to draw attention to the original, computational, work being done by UC Berkeley undergraduates, as well as to demonstrate the different types of knowledge we can create by applying computational text analysis methods within a social science and/or humanities framework. We hope you enjoy reading them.
